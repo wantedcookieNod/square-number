@@ -1,0 +1,5 @@
+c:\users\sima\documents\visual studio 2015\Projects\square number\square number\bin\Debug\square number.exe.config
+c:\users\sima\documents\visual studio 2015\Projects\square number\square number\bin\Debug\square number.exe
+c:\users\sima\documents\visual studio 2015\Projects\square number\square number\bin\Debug\square number.pdb
+c:\users\sima\documents\visual studio 2015\Projects\square number\square number\obj\Debug\square number.exe
+c:\users\sima\documents\visual studio 2015\Projects\square number\square number\obj\Debug\square number.pdb
